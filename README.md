@@ -1,5 +1,5 @@
 ## Challange Convertor de Monedas
-## :fa-globe:  :fa-money:  :fa-exchange:  :fa-usd:
+
 
 ### Caracteristicas:
 - Conversión en Tiempo Real: Obtiene las últimas tasas de cambio del mercado.
